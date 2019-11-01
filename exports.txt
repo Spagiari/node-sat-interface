@@ -1,0 +1,50 @@
+Microsoft (R) COFF/PE Dumper Version 14.16.27025.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file SATDLL.dll
+
+File Type: DLL
+
+  Section contains the following exports for SATDLL.dll
+
+    00000000 characteristics
+    5CDC1C12 time date stamp Wed May 15 11:02:58 2019
+        0.00 version
+           1 ordinal base
+         109 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001C890 AssociarAssinatura
+          2    1 0001C900 AtivarSAT
+          3    2 0001C970 AtualizarSoftwareSAT
+          4    3 0001C9C0 BloquearSAT
+          5    4 0001CA10 CancelarUltimaVenda
+          6    5 0001CA70 ComunicarCertificadoICPBRASIL
+          7    6 0001CAC0 ConfigurarInterfaceDeRede
+          8    7 0001CB10 ConsultarNumeroSessao
+          9    8 0001CB60 ConsultarSAT
+         10    9 0001CBA0 ConsultarStatusOperacional
+         16    A 0001CBF0 ConsultarUltimaSessaoFiscal
+         11    B 0001CC40 DesbloquearSAT
+         12    C 0001CCD0 EnviarDadosVenda
+         13    D 0001CD40 ExtrairLogs
+         14    E 0001CF00 TesteFimAFim
+         15    F 0001CF50 TrocarCodigoDeAtivacao
+        109   10 0001CFC0 VersaoDLL
+        108   11 0001D0F0 obterErroEstendidoSAT
+        101   12 0001D1D0 swedaHabilitarInterfaceUSBEthernet
+        100   13 0001D1F0 swedaHabilitarInterfaceUSBSerial
+        107   14 0001D210 swedaInterfaceDetectada
+        106   15 0001D230 swedaInterfaceEmOperacao
+
+  Summary
+
+      FFC000 .data
+        4000 .pdata
+       23000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       34000 .text

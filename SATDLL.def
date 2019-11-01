@@ -1,0 +1,24 @@
+LIBRARY SATDLL 
+EXPORTS 
+AssociarAssinatura 
+AtivarSAT 
+AtualizarSoftwareSAT 
+BloquearSAT 
+CancelarUltimaVenda 
+ComunicarCertificadoICPBRASIL 
+ConfigurarInterfaceDeRede 
+ConsultarNumeroSessao 
+ConsultarSAT 
+ConsultarStatusOperacional 
+ConsultarUltimaSessaoFiscal 
+DesbloquearSAT 
+EnviarDadosVenda 
+ExtrairLogs 
+TesteFimAFim 
+TrocarCodigoDeAtivacao 
+VersaoDLL 
+obterErroEstendidoSAT 
+swedaHabilitarInterfaceUSBEthernet 
+swedaHabilitarInterfaceUSBSerial 
+swedaInterfaceDetectada 
+swedaInterfaceEmOperacao 
