@@ -9,7 +9,7 @@
         "<!(node -e \"require('nan')\")"
       ],
       "target_name": "sat",
-      "sources": [ "sat.cpp" ]
+      "sources": [ "sat.cpp", "helper.cpp" ]
     }
   ]
 }
